@@ -22,7 +22,6 @@
   "require": {
     "php": "^8.3",
     "andreas-glaser/php-helpers": "^1.2.0",
-    "doctrine/orm": "^3.3.0",
     "graviton/rql-parser": "^3"
   },
   "require-dev": {
